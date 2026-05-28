@@ -6,7 +6,7 @@ file. Si pubblica così com'è.
 
 ---
 
-## Pubblicazione (GitHub → Netlify)
+## Pubblicazione (GitHub → Netlify) https://app.netlify.com/projects/domusbet2026/overview
 
 Il repo è collegato a Netlify: ogni push/upload sul branch principale fa partire il deploy
 automatico.
