@@ -4,6 +4,9 @@ Deck statico a pagina singola ("Le tre strade") per la proposta Starcks Betting 
 DomusBet. Nessun build step: HTML autonomo, immagini in base64 inline, CSS e JS tutto nel
 file. Si pubblica così com'è.
 
+https://smazzolo.github.io/Offerte-DomusBet/
+
+
 ---
 
 ## Pubblicazione (GitHub → Netlify) https://domusbet2026.netlify.app/
